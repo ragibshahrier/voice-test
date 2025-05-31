@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/voice-test/static/css/main.e6c13ad2.css",
+    "main.js": "/voice-test/static/js/main.5c4c333b.js",
+    "static/js/453.04235b31.chunk.js": "/voice-test/static/js/453.04235b31.chunk.js",
+    "index.html": "/voice-test/index.html",
+    "main.e6c13ad2.css.map": "/voice-test/static/css/main.e6c13ad2.css.map",
+    "main.5c4c333b.js.map": "/voice-test/static/js/main.5c4c333b.js.map",
+    "453.04235b31.chunk.js.map": "/voice-test/static/js/453.04235b31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5c4c333b.js"
+  ]
+}
